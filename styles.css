@@ -1,0 +1,41 @@
+body {
+    background-color: #FFFEF2; 
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+    
+  h1 {
+    font-family: serif;
+    font-size: 35;
+    font-style: oblique;
+    text-align: center;
+  }
+  
+  img {
+    margin: 20px;
+    width: 60%;
+    height: auto;
+    max-width: 100% ;
+    position: relative;
+    margin: auto;
+    display: block;
+  }
+  #img-caption {
+    display: block;
+    text-align: center;
+    padding-top: 1%;
+  }
+  
+  .emoji {
+    font-size: 1.5em;
+  }
+  .section {
+    font-style: oblique;
+    font-family: Lucida Handwriting, sans-serif;
+    font-size: 1.5em;
+  }
+  #tribute-info {
+    text-align: justify;
+    font-family: Garamond, sans-serif;
+    font-size: 1.2em;
+  }
